@@ -1,4 +1,4 @@
-# Kiko
+# kiko
 
 Collaborative filtering is a technique used by recommender systems to forecast a user's interests by compiling data on their tastes or preferences from a large number of other users. Collaborative filtering works under the premise that if two users A and B share the same preferences or viewpoints, then A is more likely to share B's viewpoints on unrelated topics.
 
